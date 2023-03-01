@@ -65,3 +65,12 @@ Author: Rohan <rr@logixbuilt.com>
 Date:   Wed Mar 1 10:02:14 2023 +0530
 
     initial commit
+
+Admin@DESKTOP-7J5U4UQ MINGW64 ~/Desktop/Git (master)
+$ git remote add origin https://github.com/development0261/Git.git
+
+Admin@DESKTOP-7J5U4UQ MINGW64 ~/Desktop/Git (master)
+$ git branch -M master
+
+Admin@DESKTOP-7J5U4UQ MINGW64 ~/Desktop/Git (master)
+$ git push -u origin master
